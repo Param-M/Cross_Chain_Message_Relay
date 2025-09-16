@@ -1,0 +1,15 @@
+[package]
+name = "Chain-Cross-Relay"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0x7ef9adb77329c837e15ccc3164b288284e76a0306f37298be4dd0e7691c1c89d"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
