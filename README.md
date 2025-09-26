@@ -69,7 +69,7 @@ Our vision is to create a unified communication infrastructure that bridges the 
 
 The Cross-Chain Message Relay project aims to become the backbone of blockchain interoperability, enabling a truly connected and collaborative decentralized ecosystem where information flows freely and securely across all blockchain networks.
 
-Proof of Transaction <img href="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12bb7b43-94e7-410e-821f-588b5c9a34bb" />
+Proof of Transaction <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12bb7b43-94e7-410e-821f-588b5c9a34bb" />
 
-<img href="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2368e4e4-3479-4232-afaf-6bd0618da513" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2368e4e4-3479-4232-afaf-6bd0618da513" />
 
